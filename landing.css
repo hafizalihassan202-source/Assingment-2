@@ -1,0 +1,29 @@
+.hero-section {
+    background-image: url('/download.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 80vh;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+}
+
+.hero-section h1 {
+    font-size: 4.5rem;
+    letter-spacing: 1px;
+}
+
+.hero-section p {
+    max-width: 600px;
+    line-height: 1.8;
+}
+
+.button-group .btn {
+    border-radius: 0;
+    letter-spacing: 1px;
+}
+
+.button-group .btn-dark {
+    background-color: #000;
+}
