@@ -20,10 +20,11 @@ ul li{
 
 /* Hero background container */
 .hero-bg{
-    background-image: url('images.jpg');
+    background-image: url('download.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    opacity: 0.9;
 }
 
 .hero-buttons{
